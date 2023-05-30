@@ -26,7 +26,7 @@
     $$x_{norm}=\frac{x-\min(x)}{\max{x}-\min{x}} \in [0,1], Min-Max$$
     $$x_{norm}=\frac{x-mean(x)}{\max{x}-\min{x}} \in [0,1], Scale$$
     $$x_{norm}=\frac{x-mean(x)}{std(x)} \tilde N(0,1), Z-score$$
-    $$x_{\log}=$\log(1+x), x_{\log-norm}=\frac{x_{\log}-mean(x_{\log})}{std(x_{\log})}, log-based$$
+    $$x_{\log}=\log(1+x), x_{\log-norm}=\frac{x_{\log}-mean(x_{\log})}{std(x_{\log})}, log-based$$
     $$x_{norm}=\frac{x}{||x||_{2}}, L2 normalization$$
 
 
