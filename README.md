@@ -8,4 +8,9 @@ Some amazing feature engineering knowledge.
     - 前向特征选择：先使用一小部分特征来拟合模型，每次往模型训练中添加一部分新的特征，直到新加入的特征对于模型的效果没有影响
     - 后向特征选择：与前向相反，先使用所有的特征进行训练，然后每次从特征集中剔除一部分特征，直到模型效果保持不变即可
 
-
+- 参考资料
+    - [传统机器学习特征选择方法](https://github.com/QinHsiu/Awesome-Feature-Engineering/blob/main/ml.md)
+    - [CV数据处理方法](https://github.com/QinHsiu/Awesome-Feature-Engineering/blob/main/cv.md)
+    - [NLP数据处理方法](https://github.com/QinHsiu/Awesome-Feature-Engineering/blob/main/nlp.md)
+    - [Rec数据处理方法](https://github.com/QinHsiu/Awesome-Feature-Engineering/blob/main/rec.md)
+    - [TTS数据处理方法](https://github.com/QinHsiu/Awesome-Feature-Engineering/blob/main/tts.md)
