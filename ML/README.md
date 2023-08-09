@@ -103,4 +103,7 @@
     - [机器学习+过滤法](https://github.com/mabalam/feature_selection)
     - [四种特征选择方法比较](https://mp.weixin.qq.com/s/xjWOX-ZePXpmexcdISZ49Q)
     - [特征选择常用机器学习方法](https://mp.weixin.qq.com/s/xuFPLiPA9nzBPvcXAt5QRg)
-    - [特征选择方法总结](https://mp.weixin.qq.com/s/PCShJQwDotCwsgAYKDd_aA)
+    - [特征选择方法总结](https://mp.weixin.qq.com/s/PCShJQwDotCwsgAYKDd_aA) [常用特征方法汇总](https://mp.weixin.qq.com/s/EnFFrga1odO-uGdGfl1rlQ)
+    - [交叉验证](https://mp.weixin.qq.com/s/sYoJpkdInIWi5jVuI0eejA)
+    - [超参数调试](https://mp.weixin.qq.com/s/vdFWCMi-dn788oXQpL6aPw)
+    - [防止模型过拟合](https://mp.weixin.qq.com/s/_FMxWM4iQRqNVjga0t8T5A)
