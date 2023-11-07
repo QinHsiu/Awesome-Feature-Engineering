@@ -70,4 +70,5 @@
 - 参考资料
     - [推荐系统|特征工程中的技巧](https://mp.weixin.qq.com/s/SBeN0KKVJEroyzIsto04ig)
     - [搜广推特征处理](https://mp.weixin.qq.com/s/Qml2OwR-Pu9yqiKxGp1T5Q)
+    - [多视图特征选择](https://mp.weixin.qq.com/s/v-ZGqYCAN_LQzkd0L9q_Ig) [paper](https://arxiv.org/pdf/2309.02064.pdf) [code](https://github.com/dudwns511/MvFS_CIKM23)
 
