@@ -14,3 +14,4 @@ Some amazing feature engineering knowledge.
     - [NLP数据处理方法](https://github.com/QinHsiu/Awesome-Feature-Engineering/blob/main/nlp.md)
     - [Rec数据处理方法](https://github.com/QinHsiu/Awesome-Feature-Engineering/blob/main/rec.md)
     - [TTS数据处理方法](https://github.com/QinHsiu/Awesome-Feature-Engineering/blob/main/tts.md)
+    - [深度学习特征筛选](https://github.com/vcherepanova/tabular-feature-selection) [解读](https://mp.weixin.qq.com/s/eCZi0Yy9GVeRB1EaDDgx0Q)
