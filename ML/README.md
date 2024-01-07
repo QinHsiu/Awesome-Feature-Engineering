@@ -108,3 +108,4 @@
     - [超参数调试](https://mp.weixin.qq.com/s/vdFWCMi-dn788oXQpL6aPw)
     - [防止模型过拟合](https://mp.weixin.qq.com/s/_FMxWM4iQRqNVjga0t8T5A)
     - [时域、频域特征](https://mp.weixin.qq.com/s/eyjlg72tmjXWGIy8Pw0XUg)
+    - [11种特征选择策略汇总](https://mp.weixin.qq.com/s/BM6F8CEszNRJkcXaiK831g)
